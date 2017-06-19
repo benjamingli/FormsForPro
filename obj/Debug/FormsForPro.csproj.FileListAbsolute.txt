@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\bin\Debug\FormsForPro.exe.config
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\bin\Debug\FormsForPro.exe
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\bin\Debug\FormsForPro.pdb
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\bin\Debug\mysql.data.dll
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\obj\Debug\FormsForPro.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\obj\Debug\FormsForPro.Form1.resources
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\obj\Debug\FormsForPro.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\obj\Debug\FormsForPro.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\obj\Debug\FormsForPro.exe
+d:\documents\visual studio 2015\Projects\FormsForPro\FormsForPro\obj\Debug\FormsForPro.pdb
